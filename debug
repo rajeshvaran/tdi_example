@@ -1,0 +1,4 @@
+# Logfile created on 2014-03-21 17:14:29 +0530 by logger.rb/31641
+[2014-03-21T17:14:29+05:30] INFO: Forking chef instance to converge...
+[2014-03-21T17:14:29+05:30] ERROR: Permission denied - /var/chef/cache/chef-client-running.pid
+[2014-03-21T17:14:29+05:30] FATAL: Chef::Exceptions::ChildConvergeError: Chef run process exited unsuccessfully (exit code 1)
